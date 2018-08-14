@@ -3,7 +3,7 @@
     "displayName": "RainbowText",
     "description": "Taste the rainbow!",
     "version": "0.0.1",
-    "publisher": "jfaw",
+    "publisher": "wanderrful",
     "engines": {
         "vscode": "^1.26.0"
     },
