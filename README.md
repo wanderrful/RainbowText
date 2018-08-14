@@ -1,7 +1,7 @@
 <h1 align="center">
-<img alt="Hello there! src="https://i.imgur.com/zvSGEQw.gif" />
-<br />
-<br />
+  <img alt="Rainbow Text!" src="https://i.imgur.com/zvSGEQw.gif">
+  <br />
+  <br />
 
 Rainbow Text!
 </h1>
